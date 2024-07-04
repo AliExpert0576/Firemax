@@ -86,4 +86,6 @@ public class UIController : MonoBehaviour
         // Update UI elements dynamically (e.g., health bar)
     }
 }
+git remote add origin <repository_url>
+git push -u origin main
 # Firemax
